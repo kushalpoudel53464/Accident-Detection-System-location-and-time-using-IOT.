@@ -2,7 +2,7 @@
 SoftwareSerial sim(10, 11);
 int _timeout;
 String _buffer;
-String number = "+918114681984"; //-> change with your number 
+String number = "+918072162737"; //-> change with your number 
 String ipAddress = "103.4.220.252";
 String SMS = "103.4.220.252";  
 void setup() { 
